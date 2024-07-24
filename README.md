@@ -12,4 +12,12 @@
  experience across various devices.</li>
 </ul>
 
+<h3>What I learned or applied</h3>
+<ul>
+  <li>Async-Await</li>
+  <li>Promises</li>
+  <li>Document Object Manupilation</li>
+  <li>AJAX</li>
+</ul>
+
 <p>This project not only demonstrates my ability to build functional and aesthetically pleasing web applications but also highlights my proficiency in JavaScript, including API integration, DOM manipulation.</p>
