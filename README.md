@@ -2,8 +2,8 @@
 <h3>Project:Currency Converter</h3>
 <p>This project is a part of my journey towards becomeing a full stack developer.</p>
 <p>I am creating projects related to the languages i just learned to strengthen my grip on that language</p>
-<p>This is a simple Tic Tac Toe game project.</p>
-<p>The live version of the game is here <a href="https://notaarryan.github.io/Tic-Tac-Toe-Game">here</a>.</p>
+<p>This is a currency converter project.</p>
+<p>The live version of the game is here <a href="https://notaarryan.github.io/Currency-Converter">here</a>.</p>
 <h3>What I learned or applied</h3>
 <ul>
   <li>Async-Await</li>
