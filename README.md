@@ -1,13 +1,15 @@
-<h1>Web Development 101</h1>
-<h3>Project:Currency Converter</h3>
-<p>This project is a part of my journey towards becomeing a full stack developer.</p>
-<p>I am creating projects related to the languages i just learned to strengthen my grip on that language</p>
-<p>This is a currency converter project.</p>
-<p>The live version of the game is here <a href="https://notaarryan.github.io/Currency-Converter">here</a>.</p>
-<h3>What I learned or applied</h3>
+<h1>Currency Converter Web Application</h1>
+
+<p>Developed a dynamic Currency Converter web application using HTML, CSS, and JavaScript, with a primary focus on showcasing my JavaScript skills.</p>
+
+<h3>Key Features:</h3>
 <ul>
-  <li>Async-Await</li>
-  <li>Promises</li>
-  <li>Document Object Manupilation</li>
-  <li>Fetching Data from API</li>
+  <li>Real-Time Exchange Rates: Integrated with an external API to fetch real-time exchange 
+ rates, ensuring accurate and up-to-date conversions.</li>
+  <li>User-Friendly Interface: Designed a clean and intuitive user interface using HTML and 
+ CSS, enhancing user experience.</li>
+  <li>Responsive Design: Ensured the application is fully responsive, providing a seamless 
+ experience across various devices.</li>
 </ul>
+
+<p>This project not only demonstrates my ability to build functional and aesthetically pleasing web applications but also highlights my proficiency in JavaScript, including API integration, DOM manipulation.</p>
